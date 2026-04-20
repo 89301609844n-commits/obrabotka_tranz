@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Транспортная Сверка",
+  "description": "Приложение для сверки рейсов, транзакций и отчетов KRC",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
